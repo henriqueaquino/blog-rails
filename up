@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bin/rails server -b 10.10.134.75 -p 80
